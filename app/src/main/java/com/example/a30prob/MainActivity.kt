@@ -21,11 +21,12 @@ class MainActivity : ComponentActivity() {
             _30probTheme {
                 Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
                     Greeting(
-                        name = "Android",
+                        name = "Zaasdsd",
                         modifier = Modifier.padding(innerPadding)
                     )
                 }
             }
+
         }
     }
 }
